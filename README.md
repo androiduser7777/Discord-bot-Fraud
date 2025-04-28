@@ -6,11 +6,11 @@ Minu Discord bot. Bot on väga kerge ja kerge kasutada. Teeb tuju paremaks erine
 Bot pakub järgmisi variante:
 
 - `!nali` - Saadab nalja.
-- `!coinflip` - Viska münti.
+- `!coinflip` - Viskab münti.
 - `!ping` - Näitab bot'i latentsust (ping).
-- `!dice` - Viska täringut.
-- `!mäng` - Saadab juhusliku mängu nime.
-- `!time` - Näitab praegust aega serveri ajavööndis.
+- `!dice` - Viskab täringut.
+- `!mäng` - Soovitab mängu, mida mängida.
+- `!time` - Näitab aega.
 - `!help` - Näitab kõiki saadaval olevaid käske.
 
 ## Eeltingimused
