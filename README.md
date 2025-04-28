@@ -5,6 +5,7 @@ Minu Discord bot. Bot on väga kerge ja kerge kasutada. Teeb tuju paremaks erine
 
 Bot pakub järgmisi variante:
 
+- `!roulette` - Rulett mäng # Alustad 1000€ ja saad panustada kas punasele/mustale või rohelisele. Näide !roulette red 1000
 - `!nali` - Saadab nalja.
 - `!coinflip` - Viskab münti.
 - `!ping` - Näitab bot'i latentsust (ping).
