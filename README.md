@@ -18,6 +18,6 @@ Bot pakub järgmisi variante:
 Enne kui saad boti käivitada, veendu, et sul on järgmised vahendid:
 
 - **Python 3.8+**
-- **discord.py raamatukogu** paigaldatud.
+- **discord.py** paigaldatud.
 
 
