@@ -46,4 +46,5 @@ async def time(ctx):
     current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     await ctx.send(f'Praegune aeg: {current_time}')
 
-bot.run('MTM2NjQxMzE3NDg5ODk1MDE4NQ.GfXIQ-.qoEZyM-iFlGbZm8P9ws7owWCnEGfJMwbHI9DFg')
+bot.run('BOTI_TOKEN')
+
