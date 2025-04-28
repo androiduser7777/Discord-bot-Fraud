@@ -17,14 +17,7 @@ Bot pakub järgmisi variante:
 
 Enne kui saad boti käivitada, veendu, et sul on järgmised vahendid:
 
-- **Python 3.8+** [Laadi alla siit](https://www.python.org/downloads/)
+- **Python 3.8+**
 - **discord.py raamatukogu** paigaldatud.
 
-### Paigaldamine
 
-1. **Klooni või laadi alla projekt**:
-
-   Laadi alla või klooni see projekt oma arvutisse. Kui kasutad GitHubi, siis saad kloonida repositooriumi:
-
-   ```bash
-   git clone https://github.com/sinu-kasutajanimi/discord-bot.git
